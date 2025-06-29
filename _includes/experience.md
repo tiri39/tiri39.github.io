@@ -1,6 +1,6 @@
 # Professional Experience
 
-**Junior Software Quality Assurance Engineer** | [Dynamic Solution Innovators](https://www.dsinnovators.com/)
+**Junior Software Quality Assurance Engineer** @ [Dynamic Solution Innovators](https://www.dsinnovators.com/)
 *April 2024 - Present*
 
 - Test planning  
