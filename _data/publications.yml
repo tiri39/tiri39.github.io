@@ -1,14 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Predicting Song Popularity by Analyzing Audio Features of Spotify Bengali Tracks across Diverse Genres
+    authors: Tama Shill, <strong>Sadia Afrin</strong>, Nasim Hossain, Pritam Saha, Prokash Maitra, Musfique Anwar
+    conference_short: ECCE - 2025
+    conference: 2025 International Conference on Electrical, Computer and Communication Engineering <strong>(ECCE)</strong>
+    read: https://ieeexplore.ieee.org/document/11013466
+    bibtex: ./assets/files/ECCE-2025-cite.txt
+    image: ./assets/img/song-pop.png
+    notes: Published
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
