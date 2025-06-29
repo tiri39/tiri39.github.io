@@ -201,7 +201,7 @@ papertitle {
   -webkit-transition: opacity 0.2s ease-in-out;
   -ms-transition: opacity 0.2s ease-in-out;
   transition: opacity 0.2s ease-in-out;
-  border-radius: 0.35em;
+  border-radius: 0;
   content: '';
   display: block;
   height: 100%;
@@ -213,7 +213,7 @@ papertitle {
 }
 
 .image.avatar {
-  border-radius: 100%; 
+  border-radius: 0; 
 }
 
 .image.avatar:before {
@@ -221,7 +221,7 @@ papertitle {
 }
 
 .image.avatar img {
-  border-radius: 100%;
+  border-radius: 0;
   width: 100%;
   padding: 10px; 
 }
