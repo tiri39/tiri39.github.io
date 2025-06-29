@@ -183,45 +183,52 @@ papertitle {
 }
 
 
-  .image {
-    border-radius: 0.35em;
-    border: 0;
-    display: inline-block;
-    position: relative;
-  }
+.image {
+  border-radius: 0.35em;
+  border: 0;
+  display: inline-block;
+  position: relative;
+}
 
-    .image:before {
-      -moz-transition: opacity 0.2s ease-in-out;
-      -webkit-transition: opacity 0.2s ease-in-out;
-      -ms-transition: opacity 0.2s ease-in-out;
-      transition: opacity 0.2s ease-in-out;
-      border-radius: 0.35em;
-      content: '';
-      display: block;
-      height: 100%;
-      left: 0;
-      opacity: 0.5;
-      position: absolute;
-      top: 0;
-      width: 100%;
-    }
+.image:before {
+  -moz-transition: opacity 0.2s ease-in-out;
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -ms-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
+  border-radius: 0.35em;
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
 
-    .image.avatar {
-      border-radius: 0.35em;
-    }
+.image.avatar {
+  border-radius: 0.35em; /* slightly rounded corners; use 0 for sharp edges */
+}
 
-      .image.avatar:before {
-        display: none;
-      }
+.image.avatar:before {
+  display: none;
+}
 
-      .image.avatar img {
-        border-radius: 0.35em;
-        width: 100%;
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
-      }
+.image.avatar img {
+  border-radius: 0.35em;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  display: block;
+  object-fit: cover;
+}
+
+/* Resize avatar image container in header */
+#header .image.avatar {
+  margin: 0 0 1em 0;
+  width: 180px; /* width of the image box */
+  height: auto; /* adjust as needed */
+}
 
     #header .image.avatar {
       margin: 0 0 1em 0;
