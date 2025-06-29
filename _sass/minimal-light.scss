@@ -183,57 +183,25 @@ papertitle {
 }
 
 
-.image {
-  border-radius: 0.35em;
-  border: 0;
-  display: inline-block;
-  position: relative;
-}
-
-.image:before {
-  -moz-transition: opacity 0.2s ease-in-out;
-  -webkit-transition: opacity 0.2s ease-in-out;
-  -ms-transition: opacity 0.2s ease-in-out;
-  transition: opacity 0.2s ease-in-out;
-  border-radius: 0.35em;
-  content: '';
-  display: block;
-  height: 100%;
-  left: 0;
-  opacity: 0.5;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-
 .image.avatar {
-  border-radius: 0.35em; /* slightly rounded corners; use 0 for sharp edges */
-}
-
-.image.avatar:before {
-  display: none;
+  border-radius: 0 !important;
 }
 
 .image.avatar img {
-  border-radius: 0.35em;
-  width: 100%;
-  height: auto;
-  padding: 0;
+  border-radius: 0 !important;
+  width: 180px !important;
+  height: auto !important;
+  padding: 0 !important;
   display: block;
-  object-fit: cover;
+  object-fit: cover !important;
 }
 
-/* Resize avatar image container in header */
 #header .image.avatar {
-  margin: 0 0 1em 0;
-  width: 180px; /* width of the image box */
-  height: auto; /* adjust as needed */
+  width: 180px !important;
+  height: auto !important;
+  margin: 0 0 1em 0 !important;
 }
 
-    #header .image.avatar {
-      margin: 0 0 1em 0;
-      width: 8.00em;
-    }
 
 h3, h4, h5, h6 {
   font-weight: 600;
