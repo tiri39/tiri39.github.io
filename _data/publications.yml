@@ -5,7 +5,7 @@ main:
     conference_short: ECCE
     conference: 2025 International Conference on Electrical, Computer and Communication Engineering <strong>(ECCE)</strong>
     read: https://ieeexplore.ieee.org/document/11013466
-    bibtex: ./assets/files/ECCE-2025-cite.txt
+    cite: ./assets/files/ECCE-2025-cite.txt
     image: ./assets/img/song-pop.png
     notes: Published
 
@@ -14,6 +14,6 @@ main:
     conference_short: IJCACI
     conference: 5th International Joint Conference on Advances in Computational Intelligence IJCACI 2021
     read: https://link.springer.com/chapter/10.1007/978-981-19-0332-8_23
-    bibtex: ./assets/files/IJCACI-2021-cite.txt
+    cite: ./assets/files/IJCACI-2021-cite.txt
     notes: Published
     image: ./assets/img/zebra.png
