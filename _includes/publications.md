@@ -30,11 +30,11 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
-      {% if link.cite %} 
-      <a href="{{ link.cite }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Cite</a>
-      {% endif %}
       {% if link.read %} 
       <a href="{{ link.read }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Read</a>
+      {% endif %}
+      {% if link.cite %} 
+      <a href="{{ link.cite }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Cite</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
