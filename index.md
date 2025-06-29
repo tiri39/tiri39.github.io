@@ -26,3 +26,5 @@ I studied CSE and spent a lot of time doing competitive programming — just for
 {% include_relative _includes/experience.md %}
 
 {% include_relative _includes/education.md %}
+
+{% include_relative _includes/cp.md %}
