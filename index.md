@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-## About Me
-
 I’m a Junior SQA Engineer at DSi, currently working with [OpenCRVS](https://www.opencrvs.org/).  
 Most of my days go into testing new features, running regressions, and playing around with automation testing. 
 I genuinely enjoy breaking things (in a good way) before they reach users.
