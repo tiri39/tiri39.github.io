@@ -190,7 +190,7 @@ papertitle {
 
 
 .image {
-  border-radius: 0;
+  border-radius: 0.35;
   border: 0;
   display: inline-block;
   position: relative;
@@ -201,7 +201,7 @@ papertitle {
   -webkit-transition: opacity 0.2s ease-in-out;
   -ms-transition: opacity 0.2s ease-in-out;
   transition: opacity 0.2s ease-in-out;
-  border-radius: 0;
+  border-radius: 0.35;
   content: '';
   display: block;
   height: 100%;
@@ -213,7 +213,7 @@ papertitle {
 }
 
 .image.avatar {
-  border-radius: 0; 
+  border-radius: 0.35; 
 }
 
 .image.avatar:before {
@@ -221,7 +221,7 @@ papertitle {
 }
 
 .image.avatar img {
-  border-radius: 0;
+  border-radius: 0.35;
   width: 100%;
   padding: 10px; 
 }
