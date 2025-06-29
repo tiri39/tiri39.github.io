@@ -22,6 +22,8 @@ I studied CSE and spent a lot of time doing competitive programming — just for
 - **[May. 2024]**   Graduated!!
 - **[Apr. 2024]**   Got my first job at [DSi](https://www.dsinnovators.com/).
 
+{% include_relative _includes/experience.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/education.md %}
