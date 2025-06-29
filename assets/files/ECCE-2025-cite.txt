@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11013466,
+  author={Shil, Tama and Afrin, Sadia and Hossain, Nasim and Saha, Pritam and Maitra, Prokash and Anwar, Musfique},
+  booktitle={2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
+  title={Predicting Song Popularity by Analyzing Audio Features of Spotify Bengali Tracks across Diverse Genres}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Support vector machines;Measurement;Industries;Logistic regression;Static VAr compensators;Production;Nearest neighbor methods;Feature extraction;Decision trees;Random forests;Streaming services;Popularity prediction;genre;Spotify Bengali Tracks (SBT)},
+  doi={10.1109/ECCE64574.2025.11013466}}
