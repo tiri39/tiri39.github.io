@@ -21,18 +21,13 @@ I studied CSE and spent a lot of time doing competitive programming — just for
 - **[Apr. 2024]**   Got my first job at [DSi](https://www.dsinnovators.com/).
 
 
-## Publications {#publications}
 {% include_relative _includes/publications.md %}
 
-## Experience {#experience}
 {% include_relative _includes/experience.md %}
 
-## Education {#education}
 {% include_relative _includes/education.md %}
 
-## Certifications {#certifications}
 {% include_relative _includes/certificates.md %}
 
-## Contests {#cp}
 {% include_relative _includes/cp.md %}
 
