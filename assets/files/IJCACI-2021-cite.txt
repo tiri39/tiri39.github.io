@@ -1,0 +1,17 @@
+@InProceedings{10.1007/978-981-19-0332-8_23,
+author="Shorif, Sumaita Binte
+and Afrin, Sadia
+and Majumder, Anup
+and Uddin, Mohammad Shorif",
+editor="Uddin, Mohammad Shorif
+and Jamwal, Prashant Kumar
+and Bansal, Jagdish Chand",
+title="Computer Vision-Based Algorithms on Zebra Crossing Navigation",
+booktitle="Proceedings of International Joint Conference on Advances in Computational Intelligence",
+year="2022",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="319--328",
+abstract="A zebra crossing, which is specified as extensive white bands painted on typical black roads, is a pathway for pedestrians to cross a road. Pedestrians need to find a zebra crossing to negotiate a road. Finding zebra crossing is difficult for a pedestrian if he/she is a blind or a visually impaired person. Hence, the detection of zebra crossings is extremely crucial for ameliorating the agility of the visually challenged and blind people as well as preventing precarious situations from taking place in navigating a road. Several computer vision-based techniques are developed to find the zebra patterns on a road surface. This paper tries to study the existing vision-based techniques, their performances and also shows the future research directions to develop an intelligent vision-based road crossing system for visually impaired people.",
+isbn="978-981-19-0332-8"
+}
