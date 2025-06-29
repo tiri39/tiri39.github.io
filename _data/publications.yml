@@ -2,20 +2,18 @@ main:
 
   - title: Predicting Song Popularity by Analyzing Audio Features of Spotify Bengali Tracks across Diverse Genres
     authors: Tama Shill, <strong>Sadia Afrin</strong>, Nasim Hossain, Pritam Saha, Prokash Maitra, Musfique Anwar
-    conference_short: ECCE - 2025
+    conference_short: ECCE
     conference: 2025 International Conference on Electrical, Computer and Communication Engineering <strong>(ECCE)</strong>
     read: https://ieeexplore.ieee.org/document/11013466
     bibtex: ./assets/files/ECCE-2025-cite.txt
     image: ./assets/img/song-pop.png
     notes: Published
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Computer Vision-Based Algorithms on Zebra Crossing Navigation
+    authors: Sumaita Binte Shorif, <strong>Sadia Afrin </strong>, Anup Majumder, Mohammad Shorif Uddin
+    conference_short: IJCACI
+    conference: 5th International Joint Conference on Advances in Computational Intelligence IJCACI 2021
+    read: https://link.springer.com/chapter/10.1007/978-981-19-0332-8_23
+    bibtex: ./assets/files/IJCACI-2021-cite.txt
+    notes: Published
+    image: ./assets/img/zebra.png
